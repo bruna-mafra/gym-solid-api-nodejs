@@ -7,4 +7,9 @@ node_modules
 build
 
 # Environment
+
 .env
+
+# Tests
+
+coverage
